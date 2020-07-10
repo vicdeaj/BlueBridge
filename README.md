@@ -9,6 +9,6 @@ Tunnel tcp communications through bluetooth
 2. When tunneling an ssh connection if there is a lot of traffic a bad packet length error is thrown.
 # How to use it
 1. Install BlueBridgeRP on your Raspberry pi from: https://github.com/vik0t0r/BlueBridgeRP.git 
-2. Build and run Bluebridge app
+2. Build and run Bluebridge app (From android studio)
 3. By default BlueBridge relays the connection to the port 8022, but you can change this behaviour looking at the TODO
 4. Connect to port 8022 from another app (like termux) and enjoy your connection!!
